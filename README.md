@@ -16,5 +16,8 @@ Settings > Pages > Custom domain, enter the client's domain (for example `www.nn
 ## Editing
 Contact details, opening hours and wording are plain text inside `index.html`. Search for the text and change it.
 
+## Social media links
+The Facebook and LinkedIn links in the footer and on the Contact page currently point to the sites' home pages. Search `facebook.com` and `linkedin.com` in `index.html` and replace them with the client's page addresses once confirmed.
+
 ## Forms
 The site has no forms. GitHub Pages can use a form service (Formspree, Web3Forms or EmailJS), so contact and booking forms that email the client can be added later.
